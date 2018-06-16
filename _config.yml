@@ -50,7 +50,10 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/garfunke1'
-  github: '//github.com/garfunke1'
+#  github: '//github.com/garfunke1'
+  email: 'garfunke1@outlook.com'
+  instagram: '//instagram.com/_garfunkel'
+
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
