@@ -26,7 +26,7 @@ avatar: '/assets/img/profile.jpg'
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments 评论功能
 comments:
@@ -50,7 +50,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/garfunke1'
-  email: '//garfunke1@outlook.com'
+  # email: 'garfunke1@outlook.com'
   instagram: '//instagram.com/_garfunkel'
 
 
