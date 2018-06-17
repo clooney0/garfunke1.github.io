@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: ethan's blog
+title: Ethan's blog
 description: 'ethan,后端,博客'
 keyword: 'ethan'
 url: 'https://clooney.in' # your host
@@ -14,11 +14,11 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2018
 
 # Author 配置博主信息
-author: 'ethan'
-nickname: 'ethan'
+author: 'Ethan'
+nickname: 'Ethan'
 bio: 'a programmer.'
 avatar: '/assets/img/profile.jpg'
 
@@ -26,7 +26,7 @@ avatar: '/assets/img/profile.jpg'
 search: true
 
 # Night mode
-nightMode: false
+nightMode: true
 
 # Comments 评论功能
 comments:
