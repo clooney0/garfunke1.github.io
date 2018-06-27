@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: Zhi-Bin Zhang / Make it easy to create.
-description: 'ethan,后端,博客'
-keyword: 'ethan'
+description: 'Ethan,后端,微服务,博客'
+keyword: 'Ethan'
 url: 'https://clooney.in' # your host
 
 # if you don't need baseurl, you should leave this value blank.
